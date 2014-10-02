@@ -4,3 +4,5 @@ Heroku fun
 Get started
 -----------
 `source venv/bin/activate`
+`wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh`
+
